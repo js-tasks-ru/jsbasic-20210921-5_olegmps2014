@@ -1,4 +1,5 @@
 function sum(m, n) {
-alert(m+n); 
+  var sum = m+n;
+alert(sum); 
 }
   
